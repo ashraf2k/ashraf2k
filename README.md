@@ -7,6 +7,7 @@
 
    - 📂 Product repo: [helpdesk-ai](https://github.com/ashraf2k/helpdesk-ai)
    - 📓 Weekly notes: [ai-engineering-log](https://github.com/ashraf2k/ai-engineering-log)
-   - 🔗 LinkedIn: [your LinkedIn URL]
+   - 🔗 LinkedIn: https://www.linkedin.com/in/ashraf-elbialy-msc-3b057b58/?isSelfProfile=true
+   - 
 
    **Stack I'm working with:** Python · Docker · Azure · PyTorch · RAG · MCP · Kubernetes
